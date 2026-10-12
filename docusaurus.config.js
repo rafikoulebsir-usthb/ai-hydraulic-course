@@ -20,12 +20,12 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://oulebsir-rafik.github.io',
-  baseUrl: '/ai-for-hydraulics/',
+  url: 'https://rafikoulebsir-usthb.github.io',
+  baseUrl: '/ai-hydraulic-course/',
 
   // GitHub Pages deployment (via GitHub Actions, see .github/workflows/deploy.yml)
-  organizationName: 'oulebsir-rafik',
-  projectName: 'ai-for-hydraulics',
+  organizationName: 'rafikoulebsir-usthb',
+  projectName: 'ai-hydraulic-course',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -52,7 +52,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/oulebsir-rafik/ai-for-hydraulics/tree/main/',
+          editUrl: 'https://github.com/rafikoulebsir-usthb/ai-hydraulic-course/tree/main/',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
         },
@@ -86,7 +86,7 @@ const config = {
             label: 'Course',
           },
           {
-            href: 'https://github.com/oulebsir-rafik/ai-for-hydraulics',
+            href: 'https://github.com/rafikoulebsir-usthb/ai-hydraulic-course',
             label: 'GitHub',
             position: 'right',
           },
@@ -107,7 +107,7 @@ const config = {
           {
             title: 'More',
             items: [
-              {label: 'GitHub', href: 'https://github.com/oulebsir-rafik/ai-for-hydraulics'},
+              {label: 'GitHub', href: 'https://github.com/rafikoulebsir-usthb/ai-hydraulic-course'},
             ],
           },
         ],

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const REPO = 'oulebsir-rafik/ai-for-hydraulics';
+const REPO = 'rafikoulebsir-usthb/ai-hydraulic-course';
 const BRANCH = 'main';
 
 // Links to a chapter's exercise and solution notebooks under notebooks/.
